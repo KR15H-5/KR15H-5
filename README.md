@@ -53,10 +53,15 @@ I'm a **Computer Science student** and **Full-Stack Developer** with experience 
 ### 🛠️ Projects
 
 - **EssayLLMFineTune** | Python, JavaScript, FastAPI, Supabase, Docker  
-  Developed a full-stack app to fine-tune large language models on user essays, managing over 200 essays with secure access using JWT and OAuth.
+  Developed a full-stack app to fine-tune large language models on user essays, managing over 200 essays with secure access using JWT and OAuth.  
+  **Website**: [finetune.krishshroff.com](http://finetune.krishshroff.com)
 
 - **GoChat** | Go, React, Docker  
   Created a real-time messaging web app using WebSockets, containerized with Docker for consistency across environments.
 
 - **AI-Based Risk Management System**  
   Built an AI model for insurance risk management, leading to a 20% improvement in risk assessment accuracy, processing image data from over 10,000 commercial spaces.
+
+- **PaletteAI** | AI, Web  
+  PaletteAI is an AI platform that analyzes a company's website and returns the color palette, designed specifically for use by designers.  
+  **Website**: [paletteai.krishshroff.com](http://paletteai.krishshroff.com)
