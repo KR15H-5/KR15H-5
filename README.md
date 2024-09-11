@@ -1,16 +1,62 @@
-## Hi there 👋
+# 🏄‍♂️ Krish Shroff
 
-<!--
-**KR15H-5/KR15H-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4A13F7&width=435&lines=Full+Stack+Developer+and+AI+Engineer" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+I'm a **Computer Science student** and **Full-Stack Developer** with experience in developing AI-based solutions and real-time web applications. Currently pursuing my BSc at the **University of Nottingham**, I enjoy working on innovative projects that leverage machine learning and data-driven insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<br />
+<br />
+
+### 🧰 Databases :
+
+<div align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+<br />
+
+---
+
+### 📺 Connect with me:
+<div align="left">
+  <a href="https://www.linkedin.com/in/krish--shroff/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:psyks17@nottingham.ac.uk"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+---
+
+### 📊 Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KR15H-5&show_icons=true&theme=dark&locale=en" alt="KR15H-5" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KR15H-5&show_icons=true&theme=dark&locale=en&layout=compact" alt="KR15H-5" /></td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Projects
+
+- **EssayLLMFineTune** | Python, JavaScript, FastAPI, Supabase, Docker  
+  Developed a full-stack app to fine-tune large language models on user essays, managing over 200 essays with secure access using JWT and OAuth.
+
+- **GoChat** | Go, React, Docker  
+  Created a real-time messaging web app using WebSockets, containerized with Docker for consistency across environments.
+
+- **AI-Based Risk Management System**  
+  Built an AI model for insurance risk management, leading to a 20% improvement in risk assessment accuracy, processing image data from over 10,000 commercial spaces.
