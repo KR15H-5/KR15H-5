@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4A13F7&width=435&lines=Full+Stack+Developer+and+AI+Engineer" alt="Typing SVG" /></a>
 
-I'm a **Computer Science student** and **Full-Stack Developer** with experience in developing AI-based solutions and real-time web applications. Currently pursuing my BSc at the **University of Nottingham**, I enjoy working on innovative projects that leverage machine learning and data-driven insights.
+I'm a **Computer Science student** and **Full-Stack Developer** with experience in developing AI-based solutions and real-time web applications. Currently pursuing my Bachelors in Science (Honours) at the **University of Nottingham**, I enjoy working on innovative projects that leverage machine learning and data-driven insights.
 
 ---
 
@@ -65,3 +65,8 @@ I'm a **Computer Science student** and **Full-Stack Developer** with experience 
 - **PaletteAI** | Javascript, Express, MongoDB, React  
   Developed a full-stack AI platform using Express for the backend, MongoDB for data storage, and React for the frontend. PaletteAI analyzes a company's website and returns its color palette, designed for use by designers.  
   **Website**: [paletteai.krishshroff.com](http://paletteai.krishshroff.com)
+
+- **SWE Internship Tracker** | Next.js, JavaScript  
+  Built a web application to track software engineering internship positions in the UK, enabling users to organize opportunities by status, location, and application deadlines.  
+  **Website**: [findswe.krishshroff.com](http://findswe.krishshroff.com)
+
