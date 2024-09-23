@@ -56,14 +56,14 @@ I'm a **Computer Science student** and **Full-Stack Developer** with experience 
   Developed a full-stack app to fine-tune large language models on user essays, managing over 200 essays with secure access using JWT and OAuth.  
   **Website**: [finetune.krishshroff.com](http://finetune.krishshroff.com)
 
-- **SWE Internship Tracker** | Next.js, JavaScript, Supabase
+- **SWE Internship Tracker** | Next.js, JavaScript, Supabase   
   Built a web application to track software engineering internship positions in the UK, enabling users to organize opportunities by status, location, and application deadlines.  
   **Website**: [findswe.krishshroff.com](http://findswe.krishshroff.com)
 
 - **GoChat** | Go, React, Docker  
   Created a real-time messaging web app using WebSockets, containerized with Docker for consistency across environments.
 
-- **Big O Showdown** | React, Supabase, Javascript
+- **Big O Showdown** | React, Supabase, Javascript   
   Developed a web-based game to help users practice data structures and algorithms, with a focus on Big O notation and complexity analysis.  
   **Website**: [bigoshowdown.krishshroff.com](http://bigoshowdown.krishshroff.com)
 
