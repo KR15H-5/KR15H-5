@@ -56,8 +56,16 @@ I'm a **Computer Science student** and **Full-Stack Developer** with experience 
   Developed a full-stack app to fine-tune large language models on user essays, managing over 200 essays with secure access using JWT and OAuth.  
   **Website**: [finetune.krishshroff.com](http://finetune.krishshroff.com)
 
+- **SWE Internship Tracker** | Next.js, JavaScript, Supabase
+  Built a web application to track software engineering internship positions in the UK, enabling users to organize opportunities by status, location, and application deadlines.  
+  **Website**: [findswe.krishshroff.com](http://findswe.krishshroff.com)
+
 - **GoChat** | Go, React, Docker  
   Created a real-time messaging web app using WebSockets, containerized with Docker for consistency across environments.
+
+- **Big O Showdown** | React, Supabase, Javascript
+  Developed a web-based game to help users practice data structures and algorithms, with a focus on Big O notation and complexity analysis.  
+  **Website**: [bigoshowdown.krishshroff.com](http://bigoshowdown.krishshroff.com)
 
 - **AI-Based Risk Management System**  
   Built an AI model for insurance risk management, leading to a 20% improvement in risk assessment accuracy, processing image data from over 10,000 commercial spaces.
@@ -65,8 +73,3 @@ I'm a **Computer Science student** and **Full-Stack Developer** with experience 
 - **PaletteAI** | Javascript, Express, MongoDB, React  
   Developed a full-stack AI platform using Express for the backend, MongoDB for data storage, and React for the frontend. PaletteAI analyzes a company's website and returns its color palette, designed for use by designers.  
   **Website**: [paletteai.krishshroff.com](http://paletteai.krishshroff.com)
-
-- **SWE Internship Tracker** | Next.js, JavaScript  
-  Built a web application to track software engineering internship positions in the UK, enabling users to organize opportunities by status, location, and application deadlines.  
-  **Website**: [findswe.krishshroff.com](http://findswe.krishshroff.com)
-
